@@ -24,7 +24,8 @@ $navbar-default-bg: black;
 .jumbotron {
     background-image: asset-url('rails_image.png');
     background-size: cover;
-    height: 550 px;
+    height: 550px;
+    background-position: top center;
 }
 
 .jumbotron h1 {
